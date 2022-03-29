@@ -9,6 +9,8 @@ import Foundation
 
 
 public final class SwiftyLib {
+    
+    public init() {}
 
     let name = "SwiftyLib"
     
